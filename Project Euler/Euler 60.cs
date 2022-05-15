@@ -6,7 +6,6 @@ namespace Euler_60
     {
         static void Main(string[] args)
         {
-            int three = 3;
             int[] modone = new int[600];
             int modonecount = 0;
             int[] modtwo = new int[600];
